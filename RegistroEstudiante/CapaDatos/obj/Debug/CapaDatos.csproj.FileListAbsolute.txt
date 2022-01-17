@@ -1,0 +1,5 @@
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\CapaDatos\obj\Debug\CapaDatos.pdb

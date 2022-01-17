@@ -1,0 +1,7 @@
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\CapaNegocio\obj\Debug\CapaNegocio.pdb

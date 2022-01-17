@@ -1,0 +1,14 @@
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\RegistroEstudiante\bin\Debug\RegistroEstudiante.exe.config
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\RegistroEstudiante\bin\Debug\RegistroEstudiante.exe
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\RegistroEstudiante\bin\Debug\RegistroEstudiante.pdb
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\RegistroEstudiante\bin\Debug\CapaPresentacion.dll
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\RegistroEstudiante\bin\Debug\CapaNegocio.dll
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\RegistroEstudiante\bin\Debug\CapaDatos.dll
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\RegistroEstudiante\bin\Debug\CapaPresentacion.pdb
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\RegistroEstudiante\bin\Debug\CapaNegocio.pdb
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\RegistroEstudiante\bin\Debug\CapaDatos.pdb
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.Properties.Resources.resources
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.csproj.GenerateResource.Cache
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.exe
+C:\Users\LeoTutory\Desktop\Registro Estudiante\RegistroEstudiante\RegistroEstudiante\obj\Debug\RegistroEstudiante.pdb
